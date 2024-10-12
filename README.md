@@ -1,6 +1,6 @@
 ### Ours is to smile at your passing, friend. 👋
 ## Hi I'm RingsManyBells aka Bell
-#🌱 I’m currently learning 🐍*Python*🐍
+#🌱 I’m currently learning C#
 <!--
 **RingsManyBells/RingsManyBells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
